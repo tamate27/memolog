@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Memolog</title>
-    <link>https://tamate27.github.io/memolog/</link>
-    <description>Recent content on Memolog</description>
+    <title>Posts on Memolog</title>
+    <link>https://tamate27.github.io/memolog/posts/</link>
+    <description>Recent content in Posts on Memolog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Jul 2020 02:59:07 +0000</lastBuildDate>
     
-	<atom:link href="https://tamate27.github.io/memolog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tamate27.github.io/memolog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
