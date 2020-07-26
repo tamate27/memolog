@@ -3,26 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tamate27.github.io/memolog/tags/etc/</loc>
+  </url>
+  
+  <url>
     <loc>https://tamate27.github.io/memolog/</loc>
-    <lastmod>2020-07-25T02:59:07+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://tamate27.github.io/memolog/posts/</loc>
-    <lastmod>2020-07-25T02:59:07+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tamate27.github.io/memolog/posts/hello/</loc>
-    <lastmod>2020-07-25T02:59:07+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tamate27.github.io/memolog/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tamate27.github.io/memolog/tags/etc/</loc>
   </url>
   
   <url>
@@ -31,6 +20,10 @@
   
   <url>
     <loc>https://tamate27.github.io/memolog/posts/200727/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tamate27.github.io/memolog/categories/</loc>
   </url>
   
 </urlset>
