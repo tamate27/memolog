@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tamate27.github.io/memolog/tags/etc/</loc>
+    <loc>https://tamate27.github.io/memolog/categories/</loc>
   </url>
   
   <url>
@@ -11,19 +11,7 @@
   </url>
   
   <url>
-    <loc>https://tamate27.github.io/memolog/posts/</loc>
-  </url>
-  
-  <url>
     <loc>https://tamate27.github.io/memolog/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tamate27.github.io/memolog/posts/200727/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tamate27.github.io/memolog/categories/</loc>
   </url>
   
 </urlset>

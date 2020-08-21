@@ -6,23 +6,9 @@
     <description>Recent content on Memolog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2020 23:52:04 +0000</lastBuildDate>
     
 	<atom:link href="https://tamate27.github.io/memolog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>記録</title>
-      <link>https://tamate27.github.io/memolog/posts/200727/</link>
-      <pubDate>Sun, 26 Jul 2020 23:52:04 +0000</pubDate>
-      
-      <guid>https://tamate27.github.io/memolog/posts/200727/</guid>
-      <description>今日から記録を付けよう．最近考える力が衰えているような気がする．
-Hugo を使ってブログの体裁を作ってみた．最低限機能していると思う．
-\[\rho \colon A \otimes_{A^{\mathrm{co}H}} A \to A \otimes H\]
-KaTeXのテスト．今まではMathJaxを使っていたが，こっちの方が断然描画が早い．
-タグ機能を使えるようにしたい．</description>
-    </item>
     
   </channel>
 </rss>
